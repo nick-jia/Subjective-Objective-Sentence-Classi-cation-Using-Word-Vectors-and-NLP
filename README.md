@@ -1,1 +1,1 @@
-# Subjective-Objective-Sentence-Classi-cation-Using-Word-Vectors-and-NLP
+# Subjective-Objective-Sentence-Classification-Using-Word-Vectors-and-NLP
